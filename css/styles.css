@@ -104,14 +104,13 @@ body {
   transition-delay: 0.4s;
 }
 
-/*
-
 div {
   width: 20rem;
   margin: 10px auto;
   background: white;
 }
 
+/*
 summary {
   padding: 3px;
 }
