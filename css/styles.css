@@ -1,3 +1,8 @@
+body {
+  background: #444;
+  font-family: sans-serif;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -107,10 +112,6 @@
   transition-delay: 0.4s;
 }
 
-body {
-  background: #444;
-  font-family: sans-serif;
-}
 
 div {
   width: 20rem;
