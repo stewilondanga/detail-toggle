@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -105,6 +105,25 @@ body {
 
 .share-button:hover .share__link:nth-of-type(4) {
   transition-delay: 0.4s;
+}
+
+body {
+  background: #444;
+  font-family: sans-serif;
+}
+
+div {
+  width: 20rem;
+  margin: 10px auto;
+  background: white;
+}
+
+summary {
+  padding: 3px;
+}
+
+p {
+  padding: 5px;
 }
 
 #contact h1 {
